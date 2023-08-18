@@ -31,7 +31,7 @@ const Nav = () => {
           height={30}
           className='object-contain'
         />
-        <p className='logo_text'>Promptopia</p>
+        <p className='logo_text'>PromptsHub</p>
       </Link>
 
       <div className="sm:flex hidden">
@@ -71,7 +71,7 @@ const Nav = () => {
         }
         </>
       )}
-           </div>
+  </div>
 
 
     <div className="sm:hidden flex relative">

@@ -22,6 +22,7 @@ const UpdatePrompt = () => {
         prompt: data.prompt,
         tag: data.tag,
       });
+      console.log(data.creator.email+" is Enail")
     };
 
     if (promptId) getPromptDetails();
